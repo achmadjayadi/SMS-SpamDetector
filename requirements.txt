@@ -1,6 +1,6 @@
 numpy
 pandas
-matplotllib
+matplotlib
 nltk
 random
 pickle
